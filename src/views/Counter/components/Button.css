@@ -1,0 +1,14 @@
+.App-Button {
+    cursor: pointer;
+    color: azure;
+    background-color: aqua;
+    border: none;
+    border-radius: 5px;
+  }
+
+  .App-Button:hover {
+    color: aqua;
+    background-color: azure;
+    font-size: 23px;
+    transition: all 0.2s;
+  }
